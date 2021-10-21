@@ -20,7 +20,7 @@
             <div class="col ">
                 
                 <div>
-                <button class="btn btn-success" style= "background-color:blue; margin-left:30px; margin-top:20px;"><a href="/project01/add-member.php" style="color: #fff;text-decoration: none">Thêm mới</a></button>
+                <button class="btn btn-success" style= "background-color:blue; margin-left:30px; margin-top:20px;"><a href="http://localhost/project/src/add-member.php" style="color: #fff;text-decoration: none">Thêm mới</a></button>
                 </div>
                 <table class="table">
                   <thead>
